@@ -3,4 +3,5 @@ In this part of the exercise, we havebuild a logistic regression model to predic
 We want to determine each applicant's chance of admission based on their results on two exams. You have historical data from previous 
 applicants that you can use as a training set for logistic regression. For each trainingexample,we have the applicant's scores on two
 exams and the admissions decision.Our task is to build a classifcation model that estimates an applicant's probability of admission
-based the scores from those two exams.
+based the scores from those two exam.
+Data is being provided in txt format and we can call the functions to see the results.
